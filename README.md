@@ -1,6 +1,4 @@
-# open_ai_vs_other_embeddings_for_text_classification
-
-# GPT-3 vs Other Text Embedding Techniques for Text Classification: A Performance Evaluation
+Word Embeddings for Text Classification: A Performance Evaluation
 
 This project evaluates the performance of various text embedding techniques—GPT-3, GloVe, Word2Vec, and MPNet—for text classification tasks using different machine learning models. The dataset used is the **Fine Food Reviews** dataset.
 
