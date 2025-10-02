@@ -1,6 +1,6 @@
 Word Embeddings for Text Classification: A Performance Evaluation
 
-This project evaluates the performance of various text embedding techniques—GPT-3, GloVe, Word2Vec, and MPNet—for text classification tasks using different machine learning models. The dataset used is the **Fine Food Reviews** dataset.
+This project evaluates the performance of various text embedding techniques—GPT-3, GloVe, Word2Vec, and MPNet for text classification tasks using different machine learning models. The dataset used is the **Fine Food Reviews** dataset.
 
 ---
 
